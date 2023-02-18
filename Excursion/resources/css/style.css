@@ -39,7 +39,7 @@ body {
     justify-content: flex-end;
 }
 
-.footer-copyright {
+.footer__copyright {
     font-size: 21px;
     color: gray;
 }
